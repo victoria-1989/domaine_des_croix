@@ -29,3 +29,6 @@ L'objectif ici sera de comparer chacun des vins du client par rapport à ses con
 
 ## Livrables
 * Nettoyage, exploration, visualisation des données : [jupyter_notebook](https://github.com/victoria-1989/domaine_des_croix/blob/main/analyse_vins.ipynb)
+
+## Technologies
+| Python | VS code/ Google Colab | Power BI|
