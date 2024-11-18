@@ -30,6 +30,12 @@ L'objectif ici sera de comparer chacun des vins du client par rapport à ses con
 ## Livrables
 * Nettoyage, exploration, visualisation des données : [jupyter_notebook](https://github.com/victoria-1989/domaine_des_croix/blob/main/analyse_vins.ipynb)
 * Support de présentation en pdf: [slide_presentation](https://github.com/victoria-1989/domaine_des_croix/blob/main/Pr%C3%A9sentation%20de%20projet.pdf)
+* Visualisations: https://github.com/victoria-1989/domaine_des_croix/tree/main/viz
+
+| ![Image 1](https://raw.githubusercontent.com/victoria-1989/domaine_des_croix/main/viz/Analyse_internationale.JPG) | ![Image 2](https://raw.githubusercontent.com/victoria-1989/domaine_des_croix/main/viz/Analyse_comparative.JPG) |
+|--------------------------------------------------|-------------------------------------------------|
+
+
 
 ## Technologies
 | Python | VS code/ Google Colab | Power BI|
