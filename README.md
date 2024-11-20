@@ -4,6 +4,8 @@
 ## Table des matières
 - [Description](#description)
 - [Sources](#sources)
+- [Livrables](#livrables)
+- [Technologies](#technologies)
 
 ## Description
 
@@ -34,8 +36,6 @@ L'objectif ici sera de comparer chacun des vins du client par rapport à ses con
 
 | ![Image 1](https://raw.githubusercontent.com/victoria-1989/domaine_des_croix/main/viz/Analyse_internationale.JPG) | ![Image 2](https://raw.githubusercontent.com/victoria-1989/domaine_des_croix/main/viz/Analyse_comparative.JPG) |
 |--------------------------------------------------|-------------------------------------------------|
-
-
 
 ## Technologies
 | Python | VS code/ Google Colab | Power BI|
